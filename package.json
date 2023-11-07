@@ -4,6 +4,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "license": "ISC",
   "dependencies": {},
   "devDependencies": {
     "lerna": "^7.4.2"
