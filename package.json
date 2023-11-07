@@ -9,6 +9,7 @@
     "typescript": "^5.2.2"
   },
   "devDependencies": {
-    "lerna": "^7.4.2"
+    "lerna": "^7.4.2",
+    "ts-node": "^10.9.1"
   }
 }
