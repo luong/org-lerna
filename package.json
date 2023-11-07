@@ -5,7 +5,9 @@
     "packages/*"
   ],
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "typescript": "^5.2.2"
+  },
   "devDependencies": {
     "lerna": "^7.4.2"
   }

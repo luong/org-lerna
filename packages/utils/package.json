@@ -1,6 +1,6 @@
 {
   "name": "@luong/utils",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "main": "buid/index.js",
   "types": "buid/index.d.ts",
   "scripts": {
