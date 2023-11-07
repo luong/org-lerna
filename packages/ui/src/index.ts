@@ -1,3 +1,4 @@
 import { add } from '@luong/utils';
 
-console.log(add(6, 7));
+const luckyNumber = 10 + add(6, 7);
+export { luckyNumber };
