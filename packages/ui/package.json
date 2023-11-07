@@ -1,0 +1,14 @@
+{
+  "name": "@luong/ui",
+  "version": "0.1.0",
+  "main": "buid/index.js",
+  "types": "buid/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": {
+    "name": "luong",
+    "email": "luongfox@gmail.com"
+  },
+  "license": "ISC"
+}
