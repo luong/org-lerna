@@ -10,5 +10,13 @@
     "name": "luong",
     "email": "luongfox@gmail.com"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luong/org-lerna.git"
+  },
+  "gitHead": "b90a4a4aef155221b0a1353fe1fde0037612d44f"
 }
